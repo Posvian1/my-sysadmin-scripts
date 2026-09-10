@@ -1,0 +1,5 @@
+Sep 10 13:02:17 sysadmin-host kernel: [    0.058805] Failed to register legacy timer interrupt
+Sep 10 13:02:17 sysadmin-host kernel: [    0.381222] RAS: Correctable Errors collector initialized.
+Sep 10 13:02:17 sysadmin-host kernel: [    0.593225] GPT: Use GNU Parted to correct GPT errors.
+Sep 10 13:02:17 sysadmin-host kernel: [    3.314871] EXT4-fs (sda1): re-mounted. Opts: discard,errors=remount-ro. Quota mode: none.
+Sep 10 13:02:17 sysadmin-host systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
