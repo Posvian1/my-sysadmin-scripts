@@ -1,0 +1,9 @@
+services:
+  collector:
+    build: .
+    container_name: my-app
+    ports:
+      - "8080:8080"
+    volumes:
+      - /var/log:/var/log:ro
+    restart: unless-stopped
